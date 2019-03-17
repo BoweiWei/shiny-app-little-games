@@ -7,7 +7,6 @@
 #' @param mines number of mines
 #' @param cheat logical. If \code{TRUE} a matrix indicating the mines will be
 #'   printed
-#' @author Yixuan Qiu \email{yixuan.qiu@@cos.name}
 #' @note Linux/Mac users have to use \code{X11(type = 'Xlib')} or the Cairo
 #'   graphics device \code{Cairo()} in the package \pkg{cairoDevice}.
 #' @references \url{http://en.wikipedia.org/wiki/Minesweeper_(computer_game)}
